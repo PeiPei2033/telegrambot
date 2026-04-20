@@ -258,16 +258,7 @@ https://your-worker-url/YOUR_PREFIX/uninstall/BOT_API_TOKEN
 - **GitHub 部署失败**: 检查环境变量是否正确设置，仓库权限是否正确
 - **Worker 部署失败**: 检查 Wrangler 配置并确保您已登录到 Cloudflare
 
-## 🤝 贡献与联系
-
-如果您有任何问题、建议或想贡献代码，请提 Issue/PR 或通过以下方式联系我：
-
-- [LINUX DO](https://linux.do)
 
 ## 📄 许可证
 
 - GPL v3，希望你能完善并继续开源，而不是改头换面闭源，谢谢。
-
----
-
-希望这个工具能让您的 Telegram 私聊体验更加便捷！🎉 如果你只想直接使用，请访问 [@WegramBot](https://t.me/wegram_bot)
